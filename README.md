@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ⚙️ AutoLISP Routines for AutoCAD
 
 This repository contains a collection of **custom AutoLISP routines** designed to automate 
