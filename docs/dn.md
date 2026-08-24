@@ -12,7 +12,7 @@ It supports multiple pipe types (Galvanized, Black, PVC, CPVC, Copper, Conduit) 
 5. Pick an insertion point. The routine will draw two concentric circles representing **OD (Outer Diameter)** and **ID (Inner Diameter)**.
 
 ## 📸 Example
-![DN result](images/dn_inserted.png)
+![DN result](autolisp-routines/images/dn_inserted.png)
 
 ## 🔹 Code snippet
 ```lisp
