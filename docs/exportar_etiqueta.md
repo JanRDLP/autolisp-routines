@@ -17,7 +17,7 @@ The result is a CSV file with columns like:
 LAYER | PIECE TYPE | ELBOW TYPE | REDUCTION TYPE | PIPE TYPE | SIZE | FLANGE TYPE | LENGTH | LABEL
 ```
 
-![Export Labels in action](images/export_tags_document_example.png)
+![Export Labels example](/images/export_tags/export_tags_document_example.png)
 
 
 ## 🔹 Code snippet
