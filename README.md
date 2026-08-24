@@ -9,7 +9,7 @@ repetitive tasks in AutoCAD, focused on piping layouts and accessories.
 - [LayerControl.lsp](docs/layer_control.md) → Automates layer management for piping layouts.
 
 ## 📸 Examples
-Screenshots of AutoCAD showing the routines in action are included in the `docs/images` folder.
+Screenshots of AutoCAD showing the routines in action are included in the `docs and images` folder.
 
 ## ▶️ How to Use
 1. Open AutoCAD.
