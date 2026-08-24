@@ -12,7 +12,7 @@ A layer is visible only if **all applicable checkboxes are enabled (AND logic)**
 4. Toggle visibility as needed. Special case: *Phase 1 Only* requires Phase 1 ON and Phase 2 OFF.
 
 ## 📸 Example
-![LayerControl routine example](images/layer_control_change.png)
+![LayerControl example](/images/layer_control/layer_control_current.png)
 
 ## 🔹 Code snippet
 ```lisp
