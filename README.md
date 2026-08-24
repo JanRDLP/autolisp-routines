@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚙️ AutoLISP Routines for AutoCAD
 
 This repository contains a collection of **custom AutoLISP routines** designed to automate 
@@ -23,3 +24,6 @@ Screenshots of AutoCAD showing the routines in action are included in the `docs/
 - Supported in **AutoCAD LT 2024+** (Windows only, with some limitations).
 - Visual Studio Core
 
+=======
+# autolisp-routines
+>>>>>>> f1374916376decde5f99999b06cdd167363b7568
