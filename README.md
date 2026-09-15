@@ -22,7 +22,3 @@ Screenshots of AutoCAD showing the routines in action are included in the `docs 
 - Fully compatible with **AutoCAD 2021+** (Unicode support for labels and text).
 - Supported in **AutoCAD LT 2024+** (Windows only, with some limitations).
 - Visual Studio Core
-
-=======
-# autolisp-routines
->>>>>>> f1374916376decde5f99999b06cdd167363b7568
